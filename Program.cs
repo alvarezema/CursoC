@@ -19,7 +19,7 @@ namespace CursoC
             int num1 = int.Parse(Console.ReadLine());
             Console.WriteLine("Ingresa el segundo valor");
             int num2 = int.Parse(Console.ReadLine());
-            Console.WriteLine($"Total {num1+num2}");
+            Console.WriteLine($"Total {num1+num2}");//Comentario
         }
     }
 }
